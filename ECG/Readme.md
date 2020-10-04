@@ -1,16 +1,50 @@
 # Researches related to ECG, EEG
 
 ## Papers
+### General
+* A review of recent approaches for emotion classification using electrocardiography and electrodermography signals
+  - https://www.sciencedirect.com/science/article/pii/S2352914820301040
 * General: A Review of Deep Learning Methods on ECG Data
   - https://github.com/hsd1503/DL-ECG-Review
+### Data Augmentation
+* Data Augmentation for EEG-Based Emotion Recognition with Deep Convolutional Neural Networks
+  - http://futuremedia.szu.edu.cn/assets/files/Data%20Augmentation%20for%20EEG-basedEmotion%20Recognition%20with%20Deep%20Convolutional%20Neural%20Networks.pdf
+* Emotion Charting Using Real-time Monitoring of Physiological Signals
+  - https://ieeexplore.ieee.org/document/8967398
+* Self-supervised ECG Representation Learning for Emotion Recognition
+  - https://arxiv.org/pdf/2002.03898.pdf
+* Physiological Sensors Based Emotion Recognition ... - MDPI
+  - https://www.mdpi.com/1424-8220/20/14/4037/pdf
+* Biometric and Emotion Identification: An ECG Compression Based Method
+  - https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00467/full
+* Emotion Recognition from Multimodal Physiological Signals for Emotion Aware Healthcare Systems
+  - https://link.springer.com/article/10.1007/s40846-019-00505-7
+* Classification of Emotional Signals from the DEAP Dataset 
+  - https://www.scitepress.org/Papers/2016/60434/60434.pdf
   
 ## Data
+* Biosignal Datasets for Emotion Recognition
+  - http://hcigames.com/biosignal-datasets-emotion-recognition/
+* alphabetical list of all the databases on PhysioNet
+  - https://physionet.org/about/database/
+  - https://physionet.org/data/
 * ECG signals(1000 fragments)
   - https://data.mendeley.com/datasets/7dybx7wyfn/3
 * MIT-BIH Arrhythmia Database
   - https://www.physionet.org/content/mitdb/1.0.0/
 * DEAP 
   - https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
+* AMIGOS
+  - http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html
+* ASCERTAIN
+  - http://mhug.disi.unitn.it/wp-content/ASCERTAIN/ascertain.html
+* DREAMER: A Database for Emotion Recognition
+  - https://zenodo.org/record/546113#.X3mAXmgzYuV
+  - https://pubmed.ncbi.nlm.nih.gov/28368836/
+* HR-EEG4EMO Dataset
+  - https://www.interdigital.com/data_sets/hr-eeg4emo-dataset
+* SEED Dataset
+  - http://bcmi.sjtu.edu.cn/home/seed/index.html
   
 ## Python srcs
 
