@@ -23,6 +23,10 @@
 ### MIT-BIH
 * ECG classification using MIT-BIH dataset
   - https://github.com/physhik/ecg-mit-bih
+  
+### Stress detection
+* https://www.kaggle.com/qiriro/swell-heart-rate-variability-hrv
+
 * ECG_Heartbeat_Classification
   - https://github.com/CVxTz/ECG_Heartbeat_Classification
 * ECG-Arrhythmia-classification: https://github.com/ankur219/ECG-Arrhythmia-classification
