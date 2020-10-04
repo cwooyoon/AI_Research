@@ -12,11 +12,15 @@
 * DEAP 
   - https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
   
-## Python
+## Python srcs
+
+### DEAP database
 * PyTEAP:  Python implementation of Toolbox for Emotion Analysis using Physiological signals (TEAP)
   - https://github.com/cheulyop/PyTEAP
 * deap_analysis
   - https://github.com/paulmorio/deap_analysis
+  
+### MIT-BIH
 * ECG classification using MIT-BIH dataset
   - https://github.com/physhik/ecg-mit-bih
 * ECG_Heartbeat_Classification
