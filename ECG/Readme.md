@@ -9,6 +9,15 @@
 ### Data Augmentation
 * Data Augmentation for EEG-Based Emotion Recognition with Deep Convolutional Neural Networks
   - http://futuremedia.szu.edu.cn/assets/files/Data%20Augmentation%20for%20EEG-basedEmotion%20Recognition%20with%20Deep%20Convolutional%20Neural%20Networks.pdf
+### GAN
+* EmotionalGAN: Generating ECG to Enhance Emotion State Classification
+  - https://dl.acm.org/doi/10.1145/3349341.3349422
+### Facial
+* Facial Expression-Based Emotion Classification using Electrocardiogram and Respiration Signals
+  - https://computationalmedicinelab.ece.uh.edu/wp-content/uploads/2017/03/Facial-Expression-Based-Emotion-Classification.pdf
+### CNN, DNN
+* Deep Ensembles for Inter-Domain Arousal Recognition
+  - http://proceedings.mlr.press/v86/gjoreski20a/gjoreski20a.pdf
 * Emotion Charting Using Real-time Monitoring of Physiological Signals
   - https://ieeexplore.ieee.org/document/8967398
 * Self-supervised ECG Representation Learning for Emotion Recognition
@@ -21,13 +30,25 @@
   - https://link.springer.com/article/10.1007/s40846-019-00505-7
 * Classification of Emotional Signals from the DEAP Dataset 
   - https://www.scitepress.org/Papers/2016/60434/60434.pdf
+* Calibrating the Classifier: Siamese Neural Network Architecture for End-to-End Arousal Recognition from ECG
+  - http://qav.comlab.ox.ac.uk/papers/pk18.pdf
   
 ## Data
+### General lists
 * Biosignal Datasets for Emotion Recognition
   - http://hcigames.com/biosignal-datasets-emotion-recognition/
 * alphabetical list of all the databases on PhysioNet
   - https://physionet.org/about/database/
   - https://physionet.org/data/
+### Arrhythmia Data Set
+* Arrhythmia Data Set
+  - http://archive.ics.uci.edu/ml/datasets/Arrhythmia
+### WESAD (Wearable Stress and Affect Detection) Data Set
+* WESAD (Wearable Stress and Affect Detection) Data Set
+  - https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29
+### DATABASE FOR COGNITIVE LOAD AFFECT AND STRESS RECOGNITION
+* DATABASE FOR COGNITIVE LOAD AFFECT AND STRESS RECOGNITION
+  - https://ieee-dataport.org/open-access/database-cognitive-load-affect-and-stress-recognition
 * ECG signals(1000 fragments)
   - https://data.mendeley.com/datasets/7dybx7wyfn/3
 * MIT-BIH Arrhythmia Database
@@ -45,6 +66,9 @@
   - https://www.interdigital.com/data_sets/hr-eeg4emo-dataset
 * SEED Dataset
   - http://bcmi.sjtu.edu.cn/home/seed/index.html
+### EEG Dataset
+* EEG Database Data Set
+  - https://archive.ics.uci.edu/ml/datasets/EEG+Database
   
 ## Python srcs
 
