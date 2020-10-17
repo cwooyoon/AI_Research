@@ -2,3 +2,39 @@
 
 ## ECG related
 * https://github.com/cwooyoon/AI_Research/tree/main/ECG
+
+## YouTube
+* https://www.youtube.com/watch?v=LsCTz8d1mzU
+* https://www.youtube.com/watch?v=Qnu0thrtV6A&list=PLiS4CPvOaVnuVgl1UV58YRwLStjSGGt7x
+* https://www.youtube.com/watch?v=u5kznE6kYmc
+* https://www.youtube.com/watch?v=h-Cdtfn3c0U
+* https://www.youtube.com/watch?v=hPXeVHdIdmw&list=PLonyPa9MGfK0_40FWAhfPwvUUA_mqlyla
+* https://www.youtube.com/watch?v=6vYc8kLmtsI
+* https://www.youtube.com/watch?v=mef7bjmK1UI
+* https://www.youtube.com/watch?v=WUtwaYGcneg
+* https://www.youtube.com/watch?v=DoVP-80vTHA
+* https://www.youtube.com/watch?v=KeG1tCxhorI
+* https://www.youtube.com/watch?v=LCi_InJ7R-4
+* https://www.youtube.com/watch?v=su25HMMygaA
+* https://www.youtube.com/watch?v=nF5m-VsHmOI
+* https://www.youtube.com/watch?v=2wasXMkLYDU
+* https://www.youtube.com/watch?v=Suvkp_FUDbI
+* https://www.youtube.com/watch?v=c1sE1JtY7nU
+* https://www.youtube.com/watch?v=v7hn8ls7OF4
+* https://www.youtube.com/watch?v=qN3n0TM4Jno
+* https://www.youtube.com/watch?v=D9s9E-30epk&t=259s
+* https://www.youtube.com/watch?v=Dxi_Tp-gnU8
+* https://www.youtube.com/watch?v=_z0JIP7pYwE
+* https://www.youtube.com/watch?v=vQwQTj19-6o
+* https://www.youtube.com/watch?v=kpfJaBpK5sM
+* https://www.youtube.com/watch?v=CI0oF5RovCs
+* https://www.youtube.com/watch?v=GrN1tKjVBM8
+* https://www.youtube.com/watch?v=BzObmqSexEA
+* https://www.youtube.com/watch?v=iJ6Kj4XZBzA
+* https://www.youtube.com/watch?v=wCgYYuNhYVw
+* https://www.youtube.com/watch?v=EpVid2XlZls
+* https://www.youtube.com/watch?v=0VH1Lim8gL8
+* https://www.youtube.com/results?search_query=deeplearning+ECG+emotion
+* https://www.youtube.com/watch?v=IHZwWFHWa-w&t=181s
+* https://www.youtube.com/watch?v=wqQKFu41FIw
+* https://www.youtube.com/watch?v=S27pHKBEp30
