@@ -1,5 +1,17 @@
 # Youtube
 
+## 실전 파이썬 가이드 - 이상감지(Anomaly Detection) Algorithm 이해
+* https://www.youtube.com/watch?v=MPiPe1UnWJc
+
+## 제 41회 TDF - "예지 정비(PdM)방법과 알고리즘"
+* https://www.youtube.com/watch?v=fuBSW0VDVt0&feature=youtu.be
+
+## [SAS Forum KOREA 2014]제조산업에서의 빅데이터 : 마이크로데이터 & 설비부문 Data 분석사례-- 엑센츄어 김진욱 부장
+* https://www.youtube.com/watch?v=rtuCX5vDnLU&feature=youtu.be
+
+## 스마트 제조를 위한 머신러닝 활용 - SAMSUNG-ORACLE Insight Forum
+* https://www.youtube.com/watch?v=bZFeAGwMzrY&feature=youtu.be
+
 ## [엑셈 웨비나] 시계열 데이터 비정상 탐지
 * https://www.youtube.com/watch?v=dcu5G-7px04&list=PLJRc3Y_JGe9y-tfzbq8iEYWZlbJm-VK7p
 * EXEM AIOps에 탑재된 비정상 탐지 기능에 대한 내용을
